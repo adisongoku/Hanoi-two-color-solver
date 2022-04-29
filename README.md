@@ -1,7 +1,5 @@
-# Projects
-All projects I've been making with university and courses
+#Hanoi two color solver
 
-Two color classic hanoi tower solver
 
 What it does is outputting instruction of what moves you have to make to solve tower.
 
